@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206909909455",
+    "firebase_url": "https://trabajo-app-95377-default-rtdb.firebaseio.com",
+    "project_id": "trabajo-app-95377",
+    "storage_bucket": "trabajo-app-95377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206909909455:android:da7fb2c7833fede3ad4aba",
+        "android_client_info": {
+          "package_name": "com.afes.socialmediagamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206909909455-mt3i9c78abqo2lnrv88gbj9gmpomp93u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afes.socialmediagamer",
+            "certificate_hash": "5e42422725167761083cdc57aeac9d61eead2d61"
+          }
+        },
+        {
+          "client_id": "206909909455-fajt6c3qjaurc0gu2pg1nhuk93ihm1tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyQTkBS-PwHj6TgqOUE9fI_zGWtQa3-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206909909455-fajt6c3qjaurc0gu2pg1nhuk93ihm1tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

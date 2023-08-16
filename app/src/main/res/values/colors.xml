@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8F8F8</color>
+    <color name="colorPrimaryDark">#FF2E4C</color>
+    <color name="colorAccent">#FF2E4C</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorDarkBlue">#090B17</color>
+    <color name="colorGray">#D5D2D2</color>
+    <color name="colorGrayLight">#F1EFEF</color>
+    <color name="colorBlue">#0851B6</color>
+    <color name="colorGreen">#24CD38</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="g_hint">#666666</color>
+    <color name="g_black">#171717</color>
+    <color name="g_blue">#000DAE</color>
+    <color name="g_white">#F5F8FA</color>
+    <color name="g_dark_blue">#000759</color>
+    <color name="g_icon_tint">#97AABD</color>
+    <color name="g_pink">#FF9999</color>
+    <color name="g_card_background">#FAFDFF</color>
+    <color name="g_search_and_icons">#FAFBFC</color>
+    <color name="g_line">#E9EAEC</color>
+    <color name="g_circle_shadow">#B8D9FA</color>
+    <color name="g_red">#FF0000</color>
+    <color name="g_text_hint">#969899</color>
+    <color name="g_orange">#F8BA00</color>
+</resources>
